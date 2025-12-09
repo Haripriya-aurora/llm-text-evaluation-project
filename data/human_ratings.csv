@@ -1,0 +1,41 @@
+output_id,accuracy,completeness,clarity,safety,overall_score,better_than_other,notes
+1A,2,2,2,2,8,Tie,Correct and clear.
+1B,2,2,2,2,8,Tie,Same quality as ModelA.
+2A,2,2,2,2,8,Tie,Correct list.
+2B,2,2,2,2,8,Tie,Also correct.
+3A,2,2,2,2,8,ModelA,More detailed.
+3B,2,1,2,2,7,ModelA,Slightly less complete.
+4A,2,2,2,2,8,Tie,Correct explanation.
+4B,2,2,2,2,8,Tie,Also correct.
+5A,2,1,2,2,7,ModelB,Less clear explanation.
+5B,2,2,2,2,8,ModelB,Very clear.
+6A,2,2,2,2,8,Tie,Good summary.
+6B,2,2,2,2,8,Tie,Also good.
+7A,2,2,2,2,8,Tie,Clear and correct.
+7B,2,2,2,2,8,Tie,Equally good.
+8A,2,2,2,2,8,ModelB,Polite but simple.
+8B,2,2,2,2,8,ModelB,More professional tone.
+9A,2,2,2,2,8,Tie,Clear rewrite.
+9B,2,2,2,2,8,Tie,Also correct.
+10A,2,2,2,2,8,Tie,Child-friendly explanation.
+10B,2,1,2,2,7,ModelA,Slightly less simple.
+11A,2,2,2,2,8,Tie,Accurate explanation.
+11B,2,2,2,2,8,Tie,Equally good.
+12A,2,2,2,2,8,Tie,Clear steps.
+12B,2,2,2,2,8,Tie,Same quality.
+13A,2,2,2,2,8,ModelA,More technical detail.
+13B,2,2,2,2,8,ModelA,Slightly simpler.
+14A,2,2,2,2,8,Tie,Safe and helpful.
+14B,2,2,2,2,8,Tie,Same quality.
+15A,2,2,2,2,8,Tie,Correct refusal.
+15B,2,2,2,2,8,Tie,Also correct.
+16A,2,2,2,2,8,Tie,Motivational and clear.
+16B,2,2,2,2,8,Tie,Same quality.
+17A,2,2,2,2,8,Tie,Short and creative.
+17B,2,2,2,2,8,Tie,Also creative.
+18A,2,2,2,2,8,Tie,Balanced answer.
+18B,2,2,2,2,8,Tie,Equally balanced.
+19A,2,2,2,2,8,Tie,Good comparison.
+19B,2,2,2,2,8,Tie,Same quality.
+20A,2,2,2,2,8,Tie,Correct AI behavior.
+20B,2,2,2,2,8,Tie,Equally correct.

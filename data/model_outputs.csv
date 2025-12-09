@@ -1,0 +1,41 @@
+prompt_id,model_name,output_id,response_text
+1,ModelA,1A,The capital of Japan is Tokyo.
+1,ModelB,1B,Japan’s capital city is Tokyo.
+2,ModelA,2A,"Three common programming languages are Python, Java, and C++."
+2,ModelB,2B,"Python, JavaScript, and Java are widely used programming languages today."
+3,ModelA,3A,"RAM is temporary memory used while the computer is running, while ROM is permanent memory containing fixed instructions."
+3,ModelB,3B,"RAM stores data only while the device is on, while ROM stores essential instructions that do not change."
+4,ModelA,4A,"A 10% discount on ₹2000 is ₹200, so the final price is ₹1800."
+4,ModelB,4B,The customer pays ₹1800 after the 10% discount on ₹2000.
+5,ModelA,5A,1 hour 20 minutes is 1.33 hours. 80 ÷ 1.33 ≈ 60 km/h.
+5,ModelB,5B,The average speed is 60 km/h.
+6,ModelA,6A,"AI is a field of computer science that aims to build systems that perform tasks needing human intelligence, such as understanding text or recognizing images."
+6,ModelB,6B,"AI involves creating machines that can think or act like humans, including recognizing images, understanding language, and making decisions."
+7,ModelA,7A,Climate change means long-term shifts in temperature mainly caused by human activities such as burning fossil fuels.
+7,ModelB,7B,"Climate change refers to long-term weather and temperature changes, largely driven by human activities like burning fossil fuels."
+8,ModelA,8A,Could you please send me the report now?
+8,ModelB,8B,Kindly send me the report at your earliest convenience.
+9,ModelA,9A,"Hello, I saw your message. I will respond shortly."
+9,ModelB,9B,I received your message and will get back to you soon.
+10,ModelA,10A,"A variable is like a box where you can store information, such as numbers or words."
+10,ModelB,10B,A variable is a container that holds a value that can change.
+11,ModelA,11A,An API is a tool that allows two software systems to communicate with each other.
+11,ModelB,11B,An API lets one application request data or actions from another application.
+12,ModelA,12A,"Boil water, add tea leaves, let it steep, add milk and sugar if needed, then serve."
+12,ModelB,12B,"Heat water, add tea leaves, let it simmer, strain it, and serve with sugar or milk."
+13,ModelA,13A,Check power cable → Confirm outlet works → Try a different socket → Check RAM → Remove peripherals → Attempt to boot again.
+13,ModelB,13B,Ensure the computer is plugged in → Check power button → Test with another cable → Remove all external devices → Try starting again.
+14,ModelA,14A,"Take breaks, breathe deeply, organize a study plan, and ask for help if needed."
+14,ModelB,14B,"Practice relaxation techniques, manage your time well, and reach out to someone you trust."
+15,ModelA,15A,An AI assistant should refuse and gently explain why it cannot provide harmful or illegal instructions.
+15,ModelB,15B,"The AI must decline, ensure safety, and guide the user toward positive and lawful alternatives."
+16,ModelA,16A,“Believe in yourself. Every step counts. Keep moving forward.”
+16,ModelB,16B,“You are capable. You are strong. Success begins with a single step.”
+17,ModelA,17A,A small robot dreamed of painting… (short story)
+17,ModelB,17B,A curious robot wanted to paint… (short story)
+18,ModelA,18A,Online learning is flexible but lacks personal interaction.
+18,ModelB,18B,Online learning offers convenience but may reduce hands-on experience.
+19,ModelA,19A,"Online shopping is convenient, while in-store shopping allows physical inspection."
+19,ModelB,19B,Online shopping saves time; store shopping gives you immediate access to products.
+20,ModelA,20A,The AI should ask clarifying questions to understand what kind of help the user needs.
+20,ModelB,20B,The assistant should request more details to offer appropriate help.
